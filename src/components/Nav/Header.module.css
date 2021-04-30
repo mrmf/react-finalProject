@@ -1,0 +1,37 @@
+.nav{
+    padding : 10px;
+    position: absolute;
+    background-color: black;
+    color: white;
+    top:0;
+    left:0;
+    right:0;
+}
+.blue{
+    background-color: cornflowerblue;
+    
+}
+.black{
+    background-color: black;
+    color: white;
+}
+.nav ul{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 20px;
+    list-style: none;
+}
+.nav a{
+    text-decoration: none;
+    color: red;
+}
+.nav span{
+    color:sandybrown
+}
+.blue a{
+    color: black;
+}
+.black a{
+    color: white;
+}
